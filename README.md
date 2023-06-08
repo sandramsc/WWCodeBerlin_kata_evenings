@@ -1,4 +1,4 @@
-# WWCode_kata_evenings
+# WWCodeBerlin_kata_evenings
 small coding challenges during wwcode hack evenings
 
 1. [Heap Sort](https://github.com/sandramsc/WWCode_kata_evenings/blob/main/heap-sort.py)
